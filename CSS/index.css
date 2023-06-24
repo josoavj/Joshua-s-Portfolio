@@ -30,10 +30,6 @@ header{
   width: auto;
   justify-content: space-between;
 }
-/*.logo{
-  position: relative;
-  justify-content: left;
-}*/
 #logocont{
   position: relative;
   width: auto;
@@ -43,7 +39,7 @@ header{
 #logo{
   width: 5%;
   height:85%;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 header div a{
   padding-right: 15px;
