@@ -38,12 +38,15 @@ header{
 }
 #logo{
   width: 5%;
-  height:85%;
+  height:90%;
   border-radius: 10px;
+  object-fit: cover;/* Redimensionne l'image pour couvrir la zone concernée */
 }
 header div a{
   padding-right: 15px;
-  margin-top: 20px;
+  color: rgb(23, 23, 182);
+  margin-top: 25px;
+  padding-top: 25px;
   text-decoration: none;
   font-weight: bolder;
 }
