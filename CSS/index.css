@@ -11,6 +11,18 @@ body{
   background-attachment: fixed;
   background-size: cover;
 }
+#titre1{
+ text-align:right;
+ padding-right: 10px;
+}
+#titre2{
+ text-align:center;
+}
+.Presentation{
+  text-align:left;
+  padding: 5px;
+  margin: 10px;
+}
 
 /* header */
 header{
@@ -32,9 +44,6 @@ header{
   width: 5%;
   height:85%;
   border-radius: 5px;
-}
-#logo:hover{
-  width: 7%;
 }
 header div a{
   padding-right: 15px;
