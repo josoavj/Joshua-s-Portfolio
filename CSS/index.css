@@ -55,7 +55,10 @@ header div a:hover{
   font-size: 18px;
   color: turquoise;
 }
-
+header div a:checked{
+  font-size: 17px;
+  color: rgb(157, 241, 232);
+}
 /* footer */
 footer{
   display: flex;
