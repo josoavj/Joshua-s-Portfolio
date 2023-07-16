@@ -62,20 +62,4 @@ header div a:checked{
 /* footer */
 footer{
   display: flex;
-  justify-content: right;
-}
-footer fieldset{
-  align-items: center;
-  border:ridge;
-  border-radius: 5px;
-  padding: 5px;
-  margin-right: 20px;
-}
-footer fieldset legend{
-  font-size: 15px;
-  font-weight: 500;
-}
-footer fieldset table{
-  text-align: center;
-  padding: 10px;
 }
