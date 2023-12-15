@@ -1,4 +1,7 @@
 # Portfolio
 - Auteur: Josoa886
 - Portfolio Web 
-# Langages utilisés: HTML, CSS, JS
+
+# Langages utilisés: 
+- Front: HTML, CSS, JS
+- Pas de back
